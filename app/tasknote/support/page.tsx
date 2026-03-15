@@ -12,7 +12,7 @@ function TaskNoteSupportPage() {
 
       <section>
         <h2>お問い合わせ先</h2>
-        <p>メールアドレス: support@kobayashiapps.com</p>
+        <p>メールアドレス: nissy.kobayashi@gmail.com</p>
       </section>
 
       <section>
