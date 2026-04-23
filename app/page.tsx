@@ -23,7 +23,7 @@ export default function Home() {
             <Link href="/tasknote/privacy">プライバシーポリシー</Link>
           </li>
           <li>
-            <Link href="/tasknote.support">サポート</Link>
+            <Link href="/tasknote/support">サポート</Link>
           </li>
         </ul>
 
@@ -40,7 +40,7 @@ export default function Home() {
             <Link href="/planly/privacy">プライバシーポリシー</Link>
           </li>
           <li>
-            <Link href="/planly.support">サポート</Link>
+            <Link href="/planly/support">サポート</Link>
           </li>
         </ul>
       </section>
