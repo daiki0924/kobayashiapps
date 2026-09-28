@@ -26,6 +26,22 @@ export default function Home() {
             <Link href="/planly/support">サポート</Link>
           </li>
         </ul>
+
+        <h3>WorkLog</h3>
+        <p>
+          WorkLog は、勤務時間を記録して月ごとの勤務表を管理するためのアプリです。
+        </p>
+        <ul>
+          <li>
+            <Link href="/worklog">WorkLog の詳細</Link>
+          </li>
+          <li>
+            <Link href="/worklog/privacy">プライバシーポリシー</Link>
+          </li>
+          <li>
+            <Link href="/worklog/support">サポート</Link>
+          </li>
+        </ul>
       </section>
     </main>
   );
