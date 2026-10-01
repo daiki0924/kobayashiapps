@@ -42,6 +42,22 @@ export default function Home() {
             <Link href="/worklog/support">サポート</Link>
           </li>
         </ul>
+
+        <h3>ふるさと&国保ナビ</h3>
+        <p>
+          ふるさと&国保ナビ は、ふるさと納税の控除上限額と国民健康保険料を概算するためのアプリです。
+        </p>
+        <ul>
+          <li>
+            <Link href="/furusatonhi">ふるさと&国保ナビ の詳細</Link>
+          </li>
+          <li>
+            <Link href="/furusatonhi/privacy">プライバシーポリシー</Link>
+          </li>
+          <li>
+            <Link href="/furusatonhi/support">サポート</Link>
+          </li>
+        </ul>
       </section>
     </main>
   );
