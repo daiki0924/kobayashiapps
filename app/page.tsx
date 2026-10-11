@@ -58,6 +58,21 @@ export default function Home() {
             <Link href="/furusatonhi/support">サポート</Link>
           </li>
         </ul>
+        <h3>Boxing Score</h3>
+        <p>
+          Boxing Score は、ボクシング観戦中に自分の採点を記録・集計・共有するためのアプリです。
+        </p>
+        <ul>
+          <li>
+            <Link href="/boxingscore">Boxing Score の詳細</Link>
+          </li>
+          <li>
+            <Link href="/boxingscore/privacy">プライバシーポリシー</Link>
+          </li>
+          <li>
+            <Link href="/boxingscore/support">サポート</Link>
+          </li>
+        </ul>
       </section>
     </main>
   );
